@@ -1,5 +1,5 @@
-# Income_violence_map
-Map of violence vs income in Augusta Georgia
+# Income_Augusta_map
+Map of average income in Augusta Georgia in relation to each point's distance from the center
 
 Code is found in Income_Augusta.R file
 
