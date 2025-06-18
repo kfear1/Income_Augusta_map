@@ -1,5 +1,5 @@
 # Income_Augusta_map
-Map of average income in Augusta Georgia in relation to each point's distance from the center
+Map of average income in  Georgia in relation to each point's distance from the Augusta
 
 Code is found in Income_Augusta.R file
 
