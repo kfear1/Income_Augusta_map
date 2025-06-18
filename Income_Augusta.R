@@ -23,7 +23,7 @@ st_crs(Aug)
 Aug_Nad83<- Aug %>% st_transform(crs=26919)
 st_crs(Aug_Nad83)
 
-#Create 3 buffer feature classes frpm Augusta_ll with     3 distance settings: 100,000; 200,000; 300,000. (Unit = Meter) 
+#Create 3 buffer feature classes from Augusta_ll with     3 distance settings: 100,000; 200,000; 300,000. (Unit = Meter) 
 
 d100<- st_buffer(Aug_Nad83, dist= 100000)
 plot(d100)
